@@ -5,7 +5,7 @@ valor de $numMes esteja fora do intervalo entre 1 e 12, exibir a mensagem “Mê
 <?php
 $numMes = 8;*/
 
-$numMes = 13;
+$numMes = 8;
 
 switch ($numMes){
     case 1:
